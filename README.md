@@ -22,3 +22,19 @@ LafiyaConnect is a mobile healthcare application concept specialized in the hema
  Implement voice assistance options for users with lower digital literacy.
  Expand the multilingual dictionary to include additional regional dialects.
  Optimize the result-sharing interface for direct physician consultations.
+
+##Week 2: User Research & Prototyping
+- User Research Summary
+  Target Audience: Antenatal patients and caregivers managing family health records.
+  Pain Points: Language and medical terminology barriers, long physical queues at laboratories, and fragmented record tracking.
+  Core Solutions: Real-time language switcher and a streamlined 3-step booking flow.
+### Information Architecture & User Journey
+  Onboarding: Splash Screen -> Language Selector (EN / PI / HA) -> Authentication.
+  Bento Dashboard: Quick booking shortcuts, active appointments tracker, and recent lab results repository.
+  Booking Flow: Select Test -> Choose Lab -> Pick Date/Time Slot -> Confirmation.
+### Usability Testing & Iterations
+  Tested with representative users to evaluate multilingual comprehension and booking speed.
+  Feedback led to enhanced contrast on step-indicators and simplified medical jargon on result summary cards.
+Prototype & Documentation Links
+  Figma Interactive Prototype: [https://www.figma.com/proto/1QqI5I4Z40gXMtp9tRMEFs/website?node-id=702-14985&p=f&t=2t4onKIoIz7GrS24-1&scaling=scale-down&content-scaling=fixed&page-id=692%3A2024&starting-point-node-id=702%3A14985]
+  Live Case Study / Presentation [https://drive.google.com/file/d/1wmh58HZsvAYwP58pGYLLTR1QfTPE01xl/view?usp=sharing]
