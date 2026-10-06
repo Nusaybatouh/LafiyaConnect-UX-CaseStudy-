@@ -38,3 +38,25 @@ LafiyaConnect is a mobile healthcare application concept specialized in the hema
 Prototype & Documentation Links
   Figma Interactive Prototype: [https://www.figma.com/proto/1QqI5I4Z40gXMtp9tRMEFs/website?node-id=702-14985&p=f&t=2t4onKIoIz7GrS24-1&scaling=scale-down&content-scaling=fixed&page-id=692%3A2024&starting-point-node-id=702%3A14985]
   Live Case Study / Presentation [https://drive.google.com/file/d/1wmh58HZsvAYwP58pGYLLTR1QfTPE01xl/view?usp=sharing]
+# LafiyaConnect - UX Case Study
+## Week 3: Design Systems, Core UI Components & Responsiveness
+### 1. Introduction & Week 3 Objectives
+For Week 3 of the LafiyaConnect project, the focus centered on establishing a cohesive Design System based on the application's core brand identity, structuring reusable UI component libraries, and ensuring seamless multilingual support (English, Nigerian Pidgin, and Hausa) across mobile viewports.
+### 2. Design System & Design Tokens (Actual App Palette)
+To maintain visual consistency aligned with the application's hematology theme, the following design tokens were established:
+ * **Primary Brand Color (Deep Burgundy / Maroon):** Utilized for main headers, active branding elements, key interactive buttons (e.g., "Log In", "Confirm"), and blood/diagnostic identity indicators.
+ * **Secondary / Accent Color (Soft Pink / Dusty Rose):** Applied to form input backgrounds, language selection cards, and interactive selection states.
+ * **Neutral Dark (Dark Navy Blue / Charcoal):** Designated for primary texts, headings, and high-emphasis elements.
+ * **Neutral Light:** Used as the clean background surface layer across screens.
+ * **Typography Hierarchy:** Applied structured heading sizes (H1: 24px Bold, H2: 20px Semi-Bold) alongside 14px body text and 12px caption indicators.
+ * **Spacing & Grid Systems:** Built on a consistent 8pt grid system to maintain balanced padding and margins.
+### 3. Core UI Component Library
+Master reusable components built within Figma to optimize the user journey:
+ * **Buttons:** Solid deep burgundy fill for primary actions and outline formats for alternative actions.
+ * **Cards & Containers:** Bento-style dashboard cards for quick actions ("Book a Test", "Check Latest Result") and appointment summaries.
+ * **Form Inputs & Language Switcher:** Soft-pink-tinted input fields and an interactive language toggle for real-time switching between English, Pidgin, and Hausa.
+### 4. Responsive Interfaces & Breakpoints
+ * **Mobile Viewport (375px - 414px):** Optimized for thumb-friendly mobile interaction, vertical bento scrolling grids, and minimum touch target sizes of 48x48px.
+### 5. Artifact Links
+ * **Figma File:** [Insert Figma Link Here]
+ * **Week 3 PDF Report:** See NusaibaAdoKabir_Week3_Design_Systems.pdf in this repository.
