@@ -59,4 +59,4 @@ Master reusable components built within Figma to optimize the user journey:
  * **Mobile Viewport (375px - 414px):** Optimized for thumb-friendly mobile interaction, vertical bento scrolling grids, and minimum touch target sizes of 48x48px.
 ### 5. Artifact Links
  * **Figma File:** [https://www.figma.com/proto/1QqI5I4Z40gXMtp9tRMEFs/website?node-id=702-14985&t=he4KKCVzluguZaAU-1&scaling=scale-down&content-scaling=fixed&page-id=692%3A2024&starting-point-node-id=702%3A14985]
-live case study /presentation:
+live case study /presentation:https://drive.google.com/file/d/16AgvVm6EPJ-2BEyFhKO5HUbnen6PG6XV/view?usp=sharing
