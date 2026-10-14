@@ -86,3 +86,4 @@ HP LIFE: Design Thinking Certificate of Completion
 5. Project Links
 
 Figma Prototype Link: [https://www.figma.com/proto/1QqI5I4Z40gXMtp9tRMEFs/website?node-id=702-14985&t=he4KKCVzluguZaAU-1&scaling=scale-down&content-scaling=fixed&page-id=692%3A2024&starting-point-node-id=702%3A14985]
+Presentation slide:https://drive.google.com/file/d/1NTRIFMxB88biAilRIepaWRYQRwS3rReq/view?usp=sharing
