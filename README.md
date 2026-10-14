@@ -60,3 +60,29 @@ Master reusable components built within Figma to optimize the user journey:
 ### 5. Artifact Links
  * **Figma File:** [https://www.figma.com/proto/1QqI5I4Z40gXMtp9tRMEFs/website?node-id=702-14985&t=he4KKCVzluguZaAU-1&scaling=scale-down&content-scaling=fixed&page-id=692%3A2024&starting-point-node-id=702%3A14985]
 live case study /presentation:https://drive.google.com/file/d/16AgvVm6EPJ-2BEyFhKO5HUbnen6PG6XV/view?usp=sharing
+
+Week 4 Final Capstone Documentation & Project Report
+
+1. Project Overview & Problem Statement
+
+LafiyaConnect is a mobile health application designed to streamline hematology lab test bookings, result tracking, and health record management. The application solves critical accessibility and communication gaps by supporting real-time language switching between English, Nigerian Pidgin, and Hausa.
+
+2. Design System & Visual Tokens
+
+Color Palette: Deep Burgundy (#800020) for primary brand and diagnostic focus, Soft Pink for form backgrounds and gentle medical highlights, and Dark Navy for high-contrast typography.
+Typography Hierarchy: Structured using clear headings (H1, H2), legible body text (14px), and 8pt grid alignment standards.
+3. Core UX/UI Features & Prototyping
+
+End-to-End User Flow: From onboarding and multi-language selection to dashboard navigation and laboratory test booking.
+Interactive Prototype: Fully functional high-fidelity Figma prototype featuring smooth transitions, form validations, and interactive language toggles.
+4. External Certifications & Credentials
+
+(Note: These external credentials were completed in parallel to strengthen UI/UX competencies and human-centered design principles)
+
+Forage: Lloyds Banking Group UX Design Introduction
+IBM SkillsBuild: UX Design / Design Thinking Credential
+Infosys Springboard: UI/UX Design Certification
+HP LIFE: Design Thinking Certificate of Completion
+5. Project Links
+
+Figma Prototype Link: [https://www.figma.com/proto/1QqI5I4Z40gXMtp9tRMEFs/website?node-id=702-14985&t=he4KKCVzluguZaAU-1&scaling=scale-down&content-scaling=fixed&page-id=692%3A2024&starting-point-node-id=702%3A14985]
